@@ -1,0 +1,18 @@
+.odd{
+    background-color: salmon;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id_demo{
+    color: blue;
+    font-size: 36px;
+}
+
+.cool{
+    font-size: 24px;
+}
+
+#second_id_demo{
+    font-weight: bold;
+    background-color: green;
+}
